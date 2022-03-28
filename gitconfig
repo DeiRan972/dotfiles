@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = dylan.dol@orange.fr
+	name = dylan dol
